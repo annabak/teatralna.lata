@@ -60,6 +60,13 @@ a {
 	color: white;
 }
 
+#baner {
+	position: relative;
+	top: 70px;
+	width: 900px;
+	text-align: center;	
+}
+
 #firstText h1 {
 	margin-top: 0px;
 }
