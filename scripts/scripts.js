@@ -32,7 +32,7 @@ var tiles = {};
 $( document ).ready(function() {
 	// add slow scroll on link click
 	$('#menu').delegate('a', 'click', scrollToClick);
-	$('#tiles').delegate('a', 'click', scrollToClick);
+	$('#aMore').click(scrollToClick);
 
 	
 	var center = $(document).width() / 2;
