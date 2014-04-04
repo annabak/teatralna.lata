@@ -1,21 +1,23 @@
 body {
 	margin: 0px;	
-	font-size: 11pt;
-	color: #c6c6c7;
+	font-size: 12pt;
+	color: white;
 	font-family: 'Play', sans-serif;
-	background-color: gray;
+	background-color: black;
 }
 
 h1 {
  	font-family: 'Play', sans-serif; 
 	font-weight: normal;
-	font-size: 30pt;
+	font-size: 24pt;
 	margin: 0px;
 	margin-top: 20px;
+        color: #f5701f;
 }
 
 h2 {
-	color: #425dfc;
+        font-family: 'Play', sans-serif; 
+	color: #f5701f;
 	font-size: 18pt;
 	font-weight: normal;
 	margin-bottom: 3px;
@@ -115,16 +117,13 @@ a {
 }
 
 #second {
-	position: absolute;
-	top: 950px;
-	width:100%;
-	color: black;
+	width:900px;
 }
 
 
 .first {
 	background-image: url(pict/background_1.jpg);
-	height: 1800px;
+	height: 1200px;
 }
 
 
