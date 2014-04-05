@@ -172,10 +172,10 @@ var seventhPictPerPage = {
 };
 
 /* slider instances */
-var laptopSlider = new Slider('laptop', laptopPictPerPage, true);
-var thirdSlider = new Slider('third', thirdPictPerPage, false);
-var fourthSlider = new Slider('fourth', fourthPictPerPage, true);
+// var laptopSlider = new Slider('laptop', laptopPictPerPage, true);
+// var thirdSlider = new Slider('third', thirdPictPerPage, false);
+// var fourthSlider = new Slider('fourth', fourthPictPerPage, true);
 var fifthSlider = new Slider('fifth', fifthPictPerPage, false);
-var sixthSlider = new Slider('sixth', sixthPictPerPage, true);
-var seventhSlider = new Slider('seventh', seventhPictPerPage, false);
+var sixthSlider = new Slider('sixth', sixthPictPerPage, false);
+// var seventhSlider = new Slider('seventh', seventhPictPerPage, false);
 
