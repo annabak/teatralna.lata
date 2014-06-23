@@ -4,7 +4,7 @@ function Slider(id, pictStruct, dark) {
 	this.id_ = id;
 	this.pictStruct_ = pictStruct;
 	this.dark_ = dark;
-	this.activePicture_ = 0;	
+	this.activePicture_ = 0;
 
 	this.pictures_ = 0;
 	for (var i in this.pictStruct_) {
@@ -159,7 +159,8 @@ var fifthPictPerPage = {
 var sixthPictPerPage = {
 	0: 1,
 	1: 1,
-	2: 1
+	2: 1,
+    3: 1
 };
 
 var seventhPictPerPage = {
